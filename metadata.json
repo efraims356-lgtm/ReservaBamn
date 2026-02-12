@@ -1,0 +1,5 @@
+{
+  "name": "Sistema de Reserva BAMN",
+  "description": "Sistema profissional de reserva de auditórios e salas de reunião para a Base Aérea de Manaus (BAMN), com controle militar e acesso administrativo restrito.",
+  "requestFramePermissions": []
+}
